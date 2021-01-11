@@ -1,8 +1,13 @@
 # Integrify_Pandas_assignment
 
-This is a group assignment on Pandas and data visualisation. Currently including SYKE dataset analysis on Finnish lakes' ice conditions during the history.
+This is an assignment for my Interify course on Pandas and data visualisation. For this assignment I used SYKE (Finnish Environment Institute) dataset analysis on Finnish lakes' ice conditions during the history.
 
-Team members:
-- Diponkor Mondal
-- Taimoor Khawaja
-- Radim Musalek
+Tools used in this project:
+
+- Jupyter Notebook
+- Python
+- Pandas
+- NumPy
+- Plotly Express
+- Matplotlib
+- Cufflinks
